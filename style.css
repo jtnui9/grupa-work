@@ -1,0 +1,615 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.fixed{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.A2{
+    color: #55A630;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.A1{
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+    color: white;
+    font-size: 20px;
+    background-color: #55A630;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.btnn{
+    color: black;
+    font-size: 20px;
+    background-color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.A3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.glavni{
+    background-color: #D7FFD3;
+    width: 1220px;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.mnb{
+    color: gray;
+}
+
+.fixed{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.x-leger{
+    font-size: 40px;
+}
+
+.fixid{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.mn{
+    color: rgb(166, 166, 166);
+    font-size: x-large;
+}
+
+.nm{
+    color: gray;
+}
+
+.fixedi{
+    color: green;
+    font-size: 24px;
+}
+
+.goku{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.p{
+    color: rgb(97, 97, 97);
+}
+
+.hr{
+    width: 900px;
+}
+
+.text{
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.red{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.contener{
+    background-color: #D7FFD3;
+    padding: 25px;
+    width: 400px;
+}
+
+.nb{
+    font-size: x-large;
+}
+
+.bn{
+    font-size: 20px;
+}
+
+.gojo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.gojoo{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.fexedi{
+    font-size: 30px;
+}
+
+ul li{
+    color: gray;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.leger{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+
+.legir{
+    background-color: #D7FFD3;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.dsa{
+    font-size: 30px;
+}
+
+.pp{
+    color: rgb(88, 87, 87);
+    font-size: 24px;
+}
+
+.bton{
+    color: white;
+    font-size: 20px;
+    background-color: #55A630;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.fre{
+    text-align: center;
+    padding: 100px;
+}
+
+.mj{
+    position: absolute;
+}
+
+.mnb{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 300px;
+}
+
+.nh{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.img{
+    text-align: center;
+    margin-left: 430px;
+    margin-top: 50px;
+}
+
+.mkl{
+    color: gray;
+    font-size: 20px;
+}
+
+.h11{
+    font-size: 40px;
+    color: gray;
+    color: #4340B4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.butn{
+    background-color: #4340B4;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border: 1px;
+    padding: 15px 50px;
+}
+
+.ppp{
+    color: gray;
+}
+
+.pleskhorder{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.buutn{
+    background-color: #4340B4;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px;
+    padding: 15px 50px;
+}
+
+.buutnn{
+    background-color: #c3c2e1;
+    color: #4340B4;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid rgb(122, 122, 122);
+    padding: 15px 88px;
+}
+
+.bunb{
+    background-color: #b3c7a9;
+    color: black;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px;
+    padding: 15px 88px;
+    border: 4px solid rgb(122, 122, 122);
+
+}
+
+.bunb{
+    background-color: #55A630;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px 88px;
+}
+
+.buttn{
+    background-color: #55A630;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border: 1px;
+    padding: 15px 50px;
+}
+
+.h111{
+    font-size: 40px;
+    color: gray;
+    color: #55A630;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h211{
+    font-size: 40px;
+    color: gray;
+    color: #1D8195;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bottn{
+    background-color: #1D8195;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border: 1px;
+    padding: 15px 50px;
+}
+
+.bonb{
+    background-color: #1D8195;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px 88px;
+}
+
+.bfuu{
+    background-color: #1D8195;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid gray;
+    padding: 15px 50px;
+}
+
+.buun{
+    background-color: #55A630;
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px;
+    padding: 15px 50px;
+}
+
+.mju{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 300px;
+}
+
+.nhtt{
+    width: 5%;
+}
+
+.mnbv{
+    width: 5%;
+}
+
+.uytr{
+    color: white ;
+    font-size: 40px;
+}
+
+.mnbvcxz{
+    color: white;
+    font-size: x-large;
+}
+
+.glavnicha{
+    background-color: black;
+    display: flex;
+    margin-top: 300px;
+}
+
+.hgfd{
+    display: flex;
+    gap: 80px;
+}
+
+.mkli{
+    color: white;
+    font-size: 30px;
+}
+
+
+.oooo{
+    color: white;
+    font-size: 50px;
+}
+
+
+
+
+
+@media (max-width:768px){
+
+header{
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
+}
+
+.fixed{
+   display: none;
+}
+
+.A3{
+    flex-direction: column;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.trener{
+    border-radius: 360px;
+    margin-left: 20px;
+}
+
+.A3 img{
+    width:100%;
+    max-width:350px;
+    margin-top:20px;
+}
+
+.A1{
+    font-size:38px;
+}
+
+.A2{
+    font-size:24px;
+}
+
+.btnn{
+    width:90%;
+    margin-top:15px;
+}
+
+.glavni{
+    width:90%;
+    padding:20px;
+}
+
+.glavni p{
+    font-size:18px;
+    line-height:30px;
+}
+
+.btn{
+    width:90%;
+    margin-top:15px;
+}
+
+.text{
+    margin:60px 20px;
+}
+
+.x-leger{
+    font-size:30px;
+}
+
+.goku{
+    flex-direction:column;
+    align-items:flex-start;
+    gap:10px;
+}
+
+.fixid{
+    align-items:flex-start;
+}
+
+.hr{
+    width:100%;
+}
+
+.red{
+    margin-top:80px;
+    font-size:28px;
+}
+
+.gojoo{
+    flex-direction:column;
+    gap:20px;
+    margin-top:20px;
+}
+
+.contener{
+    width:90%;
+}
+
+.gojo{
+    flex-direction:column;
+    gap:20px;
+    margin-top:20px;
+}
+
+.leger{
+    flex-direction:column;
+    gap:30px;
+    text-align:center;
+    margin-top:80px;
+}
+
+.leger img{
+    width:90%;
+}
+
+.legir{
+    flex-direction:column;
+    padding:30px 20px;
+}
+
+.fre{
+    padding:20px;
+}
+
+.mj{
+    display:none;
+}
+
+.mnb{
+    font-size:30px;
+    margin-top:80px;
+}
+
+.nh{
+    flex-direction:column;
+    gap:20px;
+}
+
+.nh img{
+    width:90%;
+}
+
+.img{
+    border-radius: 30px;
+    width:100%;
+    margin:20px auto;
+}
+
+.img {
+    width:90%;
+}
+
+.mju{
+    flex-direction:column;
+    gap:30px;
+    margin-top:80px;
+}
+
+.fdsa{
+    width:90%;
+    margin:auto;
+}
+
+.imgi{
+    display: none;
+}
+
+.imgs{
+    border-radius: 40px;
+}
+
+.pleskhorder{
+    flex-direction:column;
+    align-items:flex-start;
+}
+
+.pleskhorder img{
+    width:100px;
+}
+
+.buutn,
+.buutnn,
+.buun,
+.bunb,
+.bfuu,
+.bonb{
+    width:100%;
+    margin-top:10px;
+}
+
+.glavnicha{
+    flex-direction:column;
+    text-align:center;
+}
+
+.glavnicha img{
+    width:90%;
+}
+
+.hgfd{
+    flex-direction:column;
+    gap:20px;
+}
+
+.oooo{
+    font-size:32px;
+}
+
+.mkli{
+    font-size:22px;
+}
+
+.uytr{
+    font-size:22px;
+}
+
+.mnbvcxz{
+    font-size:18px;
+}
+
+}
